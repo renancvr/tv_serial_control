@@ -1,7 +1,6 @@
 // =====================================================================
 // MANUAL RAW IR TEST + UART0 (GP0/GP1) COMMAND INPUT
 // Commands come from UART0 (Serial1), like RS232->TTL or Arduino UNO.
-// Type "on" or "off" in Arduino Serial Monitor -> UNO TX -> Pico RX.
 // =====================================================================
 
 #include <Arduino.h>
