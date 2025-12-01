@@ -3,3 +3,5 @@
 An arduino skecth intended to act as way of controlling TVs. It receives a serial RS-232 comnmand from a automation system and covert it to IR commands
 
 The IR commands were extracted from an Samsung TV
+
+It's necessary the use of an RS232 to TTL to converter to correct the voltages
